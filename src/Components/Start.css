@@ -1,0 +1,35 @@
+.start{
+    margin-top: 50px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+
+h1{
+    font-size: 30px;
+    line-height: 40px;
+}
+
+.startBtn{
+    height: 45px;
+    width: 150px;
+    border: 2px solid #28282b;
+    background-color: #353935;
+    color: #e7eb10;
+    margin-top: 20px;
+    border-radius: 3px;
+    font-size: larger;
+    letter-spacing: 2px;
+    cursor: pointer;
+
+}
+
+.startBtn:hover{ 
+    border:none; 
+    background-color:black ;
+    box-shadow: inset 5px 5px 5px #050505,
+    inset -5px -5px 5px #151313;
+}
+
+p{
+    font-size: 15px;
+}

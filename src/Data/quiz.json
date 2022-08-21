@@ -1,0 +1,55 @@
+{
+    "data": [
+        {
+            "question" : "1.  Which country won the first ever football world cup?",
+            "options" : [ "Brazil", "Uruguay",  "Argetina",  "Germany" ],
+            "answer" : "Uruguay"
+        },
+        {
+            "question" : " 2. How many regulation strokes are there in swimming?",
+            "options" : [ "3", "5",  "6", "4" ],
+            "answer" : "4"
+        },
+    
+        {
+            "question" : " 3. How many gold medals has Usain Bolt won?",
+            "options" : [ "7", "6",  "8", "10" ],
+            "answer" : "8"
+        },
+        {
+            "question" : " 4. What five colours make up the Olympic rings?",
+            "options" : [ "Blue Black Green Red Yellow", "Black Blue Purple Pink Orange ","Red Black Purple Voilet Green", "Green Yellow Orange Yellow and Red" ],
+            "answer" : "Blue Black Green Red Yellow"
+        },
+        {
+            "question" : "5. Which Female Tennis Player has won more grand slam titles?",
+            "options" : [ "Venus Williams", "Chris Evert",  "Steffi Graf", "Serena Williams" ],
+            "answer" : "Serena Williams"
+        },
+        {
+            "question" : "6. In football, which team has won the Champions League the most?",
+            "options" : [ "Barcelona", "Liverpool",  "Real Madrid", "Manchester United" ],
+            "answer" : "Real Madrid"
+        },
+        {
+            "question" : "7. How many NBA championships did Michael Jordan win with the Chicago Bulls?",
+            "options" : [ "6", "8",  "10", "7" ],
+            "answer" : "6"
+        },
+        {
+            "question" : "8. What is the only sport to be played on the moon?",
+            "options" : [ "Basket Ball", "Golf",  "Baseball", "Soccer" ],
+            "answer" : "Golf"
+        },
+        {
+            "question" : "9. What was Muhammad Ali’s original name?",
+            "options" : [ "Cassius Clay", "Mustapha Ali",  "Abubakar Cassy", "Grin Thompson" ],
+            "answer" : "Cassius Clay"
+        },
+        {
+            "question" : "10 .Which sport uses a net, a racket, and a shuttlecock?",
+            "options" : [ "Tennis", "Badminton",  "Table Tennis", "Baseball" ],
+            "answer" : "Badminton"
+        }
+    ]
+}

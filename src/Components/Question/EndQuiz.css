@@ -1,0 +1,18 @@
+.endQuizBtn{
+    margin-top: 50px;
+    color: #e7eb10;
+    background-color: #0d0c0c;
+    height: 45px;
+    width: 150px;
+    font-size: large;
+    border-radius: 6PX;
+    border: none;
+    box-shadow: 5px 5px 0px #050505,
+                -5px -5px 0px #151313;
+}
+
+.endQuizBtn:hover{
+    background-color: black;
+    box-shadow: inset 5px 5px 0px #050505,
+                inset -5px -5px 0px #151313;
+}
